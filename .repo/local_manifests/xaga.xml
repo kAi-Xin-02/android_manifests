@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- XagaForge Device Trees (Android 16) -->
+  <project name="XagaForge/android_device_xiaomi_xaga" path="device/xiaomi/xaga" remote="github" revision="16" />
+  <project name="XagaForge/android_device_xiaomi_mt6895-common" path="device/xiaomi/mt6895-common" remote="github" revision="16" />
+  
+  <!-- Kernel -->
+  <project name="XagaForge/android_kernel_xiaomi_mt6895" path="kernel/xiaomi/mt6895" remote="github" revision="16" />
+  
+  <!-- Vendor -->
+  <project name="XagaForge/android_vendor_xiaomi_xaga" path="vendor/xiaomi/xaga" remote="github" revision="16" />
+  <project name="XagaForge/android_vendor_xiaomi_mt6895-common" path="vendor/xiaomi/mt6895-common" remote="github" revision="16" />
+  
+  <!-- MediaTek Dependencies -->
+  <project name="XagaForge/android_vendor_mediatek_ims" path="vendor/mediatek/ims" remote="github" revision="16" />
+  <project name="XagaForge/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" revision="16" />
+  <project name="XagaForge/android_hardware_mediatek" path="hardware/mediatek" remote="github" revision="16" />
+  <project name="XagaForge/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="16" />
+
+</manifest>
